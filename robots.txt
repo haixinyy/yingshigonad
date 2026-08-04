@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haixinyy.github.io/yingshigonad/sitemap.xml
